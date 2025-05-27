@@ -33,3 +33,5 @@ Used scaffolding to generate CRUD views and controller.
 2025-05-20 1012
 Ran migrations to create the database: Add-Migration InitialCreate,Update-Database
 20250520140045_InitialCreate
+
+2025-05-26
