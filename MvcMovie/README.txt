@@ -33,5 +33,20 @@ Used scaffolding to generate CRUD views and controller.
 2025-05-20 1012
 Ran migrations to create the database: Add-Migration InitialCreate,Update-Database
 20250520140045_InitialCreate
-
-2025-05-26
+2025-05-26 1110
+Seeding Data: Demonstrates how to seed the database with initial test data using a custom initializer.
+2025-05-26 1140
+added the datatype and placeholder on the movie model.
+2025-05-26 1155
+Created a github repo
+2025-05-27 1000
+added a new serch fileter the data and updated controller.
+2025-05-27 1010
+20250527141535_Rating migration added and updated the database.
+2025-05-27 1015
+tested and its working fine.
+2025-05-29 0930
+I add validation to an ASP.NET Core MVC app
+After that i run the code its perfecty working 
+2025-05-30 1000
+I examine the Details and Delete methods of an ASP.NET Core app and its completely working 
